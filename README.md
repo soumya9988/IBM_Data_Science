@@ -8,4 +8,7 @@ IBM Professional Certification on Data Science offered at Coursera
 
 2. https://www.coursera.org/learn/python-for-applied-data-science-ai
 
+3. https://www.coursera.org/learn/sql-data-science
+
+
 
