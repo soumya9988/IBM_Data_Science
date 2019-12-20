@@ -12,23 +12,24 @@
     <session id="-367193762">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="21" />
+          <entry key="ipynb" value="23" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="21" />
+          <entry key="IPNB" value="23" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
@@ -48,25 +49,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/03_exploratory_Data_analysis/exploratory-data-analysis.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/04_model_Development/model-development.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/06_Final_Assignment/House_Sales.ipynb">
+        <entry file="file://$PROJECT_DIR$/../../Jupyter_nb_ds/02_exploratory_data_analysis.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -75,7 +58,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/05_model_evaluation/model-evaluation-and-refinement.ipynb">
+        <entry file="file://$PROJECT_DIR$/06_Machine_Learning/02_Classification/ML0101EN-Clas-Decision-Trees-drug-py-v1.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -96,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -106,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,15 +96,11 @@
               <item name="IBM_DataScience" type="b2602c69:ProjectViewProjectNode" />
               <item name="IBM_DataScience" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="IBM_DataScience" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IBM_DataScience" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_Visualization" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,9 +132,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -167,7 +146,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -180,36 +159,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sample.py" />
-    <entry file="file://$PROJECT_DIR$/Data_Science_Methodology/DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Science_Methodology/DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.ipynb" />
     <entry file="file://$PROJECT_DIR$/../../Untitled 10.34.31 AM.ipynb" />
     <entry file="file://$PROJECT_DIR$/../../Untitled.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Data_Science_Methodology/DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_for_Data_Science/01_types_and_variables.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_for_Data_Science/08_loops.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Science_Methodology/DS0103EN-3-3-1-From-Understanding-to-Preparation-v2.0.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Python_for_Data_Science/01_types_and_variables.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Python_for_Data_Science/08_loops.ipynb" />
     <entry file="file://$USER_HOME$/jupyter_nb/dataframe_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -224,49 +179,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/01_Importing_dataset/review-introduction.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/02_data_wrangling/data-wrangling.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Untitled1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/01_Importing_dataset/review-introduction.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/02_data_wrangling/data-wrangling.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../../Untitled1.ipynb" />
     <entry file="file://$PROJECT_DIR$/../../Jupyter_nb_ds/01_data_wrangling.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/03_exploratory_Data_analysis/exploratory-data-analysis.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/04_model_Development/model-development.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/06_Final_Assignment/House_Sales.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -301,14 +217,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../DV0101EN-3-4-1-Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb">
+    <entry file="file://$PROJECT_DIR$/../../DV0101EN-3-4-1-Waffle-Charts-Word-Clouds-and-Regression-Plots-py-v2.0.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/03_exploratory_Data_analysis/exploratory-data-analysis.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/04_model_Development/model-development.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/06_Final_Assignment/House_Sales.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/05_model_evaluation/model-evaluation-and-refinement.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../../Jupyter_nb_ds/02_exploratory_data_analysis.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Analysis_with_Python/05_model_evaluation/model-evaluation-and-refinement.ipynb">
+    <entry file="file://$PROJECT_DIR$/06_Machine_Learning/02_Classification/ML0101EN-Clas-Decision-Trees-drug-py-v1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
