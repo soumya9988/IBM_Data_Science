@@ -14,6 +14,9 @@ IBM Professional Certification on Data Science offered at Coursera
 
 5. https://www.coursera.org/learn/python-for-data-visualization
 
+6. https://www.coursera.org/learn/machine-learning-with-python
+
+
 
 
 
